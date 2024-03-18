@@ -1,0 +1,50 @@
+11:12:10.887 [main] DEBUG testCases.TC_001AccountRegisterPage - Starting debug
+11:12:10.976 [main] INFO  testCases.TC_001AccountRegisterPage - ****clicked on My account****
+11:12:11.290 [main] INFO  testCases.TC_001AccountRegisterPage - ****clicked on Register****
+11:12:11.290 [main] INFO  testCases.TC_001AccountRegisterPage - ****Entering Customer Info****
+11:12:12.047 [main] INFO  testCases.TC_001AccountRegisterPage - ****clicked on Continue****
+11:12:12.384 [main] INFO  testCases.TC_001AccountRegisterPage - Validating expected message
+11:12:12.384 [main] DEBUG testCases.TC_001AccountRegisterPage - ***Debug finished
+11:12:12.384 [main] INFO  testCases.TC_001AccountRegisterPage - ****finishing TC_001AccountRegisterPage****
+11:13:53.928 [TestNG-test=chrometest-1] INFO  testCases.TC_001AccountRegisterPage - ****starting TC_001AccountRegisterPage****
+11:13:53.931 [TestNG-test=chrometest-1] DEBUG testCases.TC_001AccountRegisterPage - Starting debug
+11:13:54.010 [TestNG-test=chrometest-1] INFO  testCases.TC_001AccountRegisterPage - ****clicked on My account****
+11:13:54.312 [TestNG-test=chrometest-1] INFO  testCases.TC_001AccountRegisterPage - ****clicked on Register****
+11:13:54.312 [TestNG-test=chrometest-1] INFO  testCases.TC_001AccountRegisterPage - ****Entering Customer Info****
+11:13:55.048 [TestNG-test=chrometest-1] INFO  testCases.TC_001AccountRegisterPage - ****clicked on Continue****
+11:13:55.408 [TestNG-test=chrometest-1] INFO  testCases.TC_001AccountRegisterPage - Validating expected message
+11:13:55.411 [TestNG-test=chrometest-1] DEBUG testCases.TC_001AccountRegisterPage - ***Debug finished
+11:13:55.411 [TestNG-test=chrometest-1] INFO  testCases.TC_001AccountRegisterPage - ****finishing TC_001AccountRegisterPage****
+11:13:59.341 [TestNG-test=edgetest-1] INFO  testCases.TC_001AccountRegisterPage - ****starting TC_001AccountRegisterPage****
+11:13:59.341 [TestNG-test=edgetest-1] DEBUG testCases.TC_001AccountRegisterPage - Starting debug
+11:13:59.435 [TestNG-test=edgetest-1] INFO  testCases.TC_001AccountRegisterPage - ****clicked on My account****
+11:13:59.729 [TestNG-test=edgetest-1] INFO  testCases.TC_001AccountRegisterPage - ****clicked on Register****
+11:13:59.729 [TestNG-test=edgetest-1] INFO  testCases.TC_001AccountRegisterPage - ****Entering Customer Info****
+11:14:00.489 [TestNG-test=edgetest-1] INFO  testCases.TC_001AccountRegisterPage - ****clicked on Continue****
+11:14:00.866 [TestNG-test=edgetest-1] INFO  testCases.TC_001AccountRegisterPage - Validating expected message
+11:14:00.866 [TestNG-test=edgetest-1] DEBUG testCases.TC_001AccountRegisterPage - ***Debug finished
+11:14:00.866 [TestNG-test=edgetest-1] INFO  testCases.TC_001AccountRegisterPage - ****finishing TC_001AccountRegisterPage****
+11:31:34.465 [main] INFO  testCases.TC_001AccountRegisterPage - ****starting TC_001AccountRegisterPage****
+11:31:34.468 [main] DEBUG testCases.TC_001AccountRegisterPage - Starting debug
+11:31:34.549 [main] INFO  testCases.TC_001AccountRegisterPage - ****clicked on My account****
+11:31:34.851 [main] INFO  testCases.TC_001AccountRegisterPage - ****clicked on Register****
+11:31:34.851 [main] INFO  testCases.TC_001AccountRegisterPage - ****Entering Customer Info****
+11:31:35.596 [main] INFO  testCases.TC_001AccountRegisterPage - ****clicked on Continue****
+11:31:36.087 [main] INFO  testCases.TC_001AccountRegisterPage - Validating expected message
+11:31:36.089 [main] DEBUG testCases.TC_001AccountRegisterPage - ***Debug finished
+11:31:36.089 [main] INFO  testCases.TC_001AccountRegisterPage - ****finishing TC_001AccountRegisterPage****
+22:59:01.326 [main] INFO  testCases.TC_001AccountRegisterPage - ****starting TC_001AccountRegisterPage****
+22:59:01.331 [main] DEBUG testCases.TC_001AccountRegisterPage - Starting debug
+22:59:01.430 [main] INFO  testCases.TC_001AccountRegisterPage - ****clicked on My account****
+22:59:01.696 [main] INFO  testCases.TC_001AccountRegisterPage - ****clicked on Register****
+22:59:01.696 [main] INFO  testCases.TC_001AccountRegisterPage - ****Entering Customer Info****
+22:59:02.491 [main] INFO  testCases.TC_001AccountRegisterPage - ****clicked on Continue****
+22:59:02.835 [main] INFO  testCases.TC_001AccountRegisterPage - Validating expected message
+22:59:02.837 [main] DEBUG testCases.TC_001AccountRegisterPage - ***Debug finished
+22:59:02.838 [main] INFO  testCases.TC_001AccountRegisterPage - ****finishing TC_001AccountRegisterPage****
+23:00:29.386 [main] INFO  testCases.TC_001AccountRegisterPage - ****starting TC_001AccountRegisterPage****
+23:00:29.390 [main] DEBUG testCases.TC_001AccountRegisterPage - Starting debug
+23:00:29.488 [main] INFO  testCases.TC_001AccountRegisterPage - ****clicked on My account****
+23:00:29.868 [main] INFO  testCases.TC_001AccountRegisterPage - ****clicked on Register****
+23:00:29.868 [main] INFO  testCases.TC_001AccountRegisterPage - ****Entering Customer Info****
+23:00:30.579 [main] INFO  testCases.TC_001AccountRegisterPage - ****clicked on Continue****

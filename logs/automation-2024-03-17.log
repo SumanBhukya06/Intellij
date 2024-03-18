@@ -1,0 +1,57 @@
+15:17:25.479 [main] INFO  testCases.TC_001AccountRegisterPage - ****clicked on Continue****
+15:17:25.808 [main] INFO  testCases.TC_001AccountRegisterPage - Validating expected message
+15:17:25.810 [main] DEBUG testCases.TC_001AccountRegisterPage - ***Debug finished
+15:17:25.810 [main] INFO  testCases.TC_001AccountRegisterPage - ****finishing TC_001AccountRegisterPage****
+15:17:27.842 [main] INFO  testCases.TC_002LoginTest - ****Staring TC_002LoginTest ******* 
+15:17:27.842 [main] DEBUG testCases.TC_002LoginTest - ****capturing app logs****
+15:17:27.902 [main] INFO  testCases.TC_002LoginTest - Clicked on My Account
+15:17:28.236 [main] INFO  testCases.TC_002LoginTest - Clicked on Login
+15:17:28.237 [main] INFO  testCases.TC_002LoginTest - Entering valid email and password
+15:17:28.461 [main] INFO  testCases.TC_002LoginTest - Clicked on Login
+15:17:28.733 [main] INFO  testCases.TC_002LoginTest - ****Staring TC_002LoginTest *****
+15:33:30.546 [main] INFO  testCases.TC_001AccountRegisterPage - ****starting TC_001AccountRegisterPage****
+15:33:30.552 [main] DEBUG testCases.TC_001AccountRegisterPage - Starting debug
+15:33:30.662 [main] INFO  testCases.TC_001AccountRegisterPage - ****clicked on My account****
+15:33:31.029 [main] INFO  testCases.TC_001AccountRegisterPage - ****clicked on Register****
+15:33:31.029 [main] INFO  testCases.TC_001AccountRegisterPage - ****Entering Customer Info****
+15:33:31.769 [main] INFO  testCases.TC_001AccountRegisterPage - ****clicked on Continue****
+15:33:32.231 [main] INFO  testCases.TC_001AccountRegisterPage - Validating expected message
+15:33:32.234 [main] DEBUG testCases.TC_001AccountRegisterPage - ***Debug finished
+15:33:32.234 [main] INFO  testCases.TC_001AccountRegisterPage - ****finishing TC_001AccountRegisterPage****
+15:33:34.408 [main] INFO  testCases.TC_002LoginTest - ****Staring TC_002LoginTest ******* 
+15:33:34.409 [main] DEBUG testCases.TC_002LoginTest - ****capturing app logs****
+15:33:34.473 [main] INFO  testCases.TC_002LoginTest - Clicked on My Account
+15:33:34.705 [main] INFO  testCases.TC_002LoginTest - Clicked on Login
+15:33:34.710 [main] INFO  testCases.TC_002LoginTest - Entering valid email and password
+15:33:34.948 [main] INFO  testCases.TC_002LoginTest - Clicked on Login
+15:33:35.270 [main] INFO  testCases.TC_002LoginTest - ****Staring TC_002LoginTest *****
+15:35:01.696 [main] INFO  testCases.TC_001AccountRegisterPage - ****starting TC_001AccountRegisterPage****
+15:35:01.699 [main] DEBUG testCases.TC_001AccountRegisterPage - Starting debug
+15:35:01.784 [main] INFO  testCases.TC_001AccountRegisterPage - ****clicked on My account****
+15:35:02.010 [main] INFO  testCases.TC_001AccountRegisterPage - ****clicked on Register****
+15:35:02.010 [main] INFO  testCases.TC_001AccountRegisterPage - ****Entering Customer Info****
+15:35:02.728 [main] INFO  testCases.TC_001AccountRegisterPage - ****clicked on Continue****
+15:35:03.064 [main] INFO  testCases.TC_001AccountRegisterPage - Validating expected message
+15:35:06.442 [main] INFO  testCases.TC_002LoginTest - ****Staring TC_002LoginTest ******* 
+15:35:06.442 [main] DEBUG testCases.TC_002LoginTest - ****capturing app logs****
+15:35:06.509 [main] INFO  testCases.TC_002LoginTest - Clicked on My Account
+15:35:06.732 [main] INFO  testCases.TC_002LoginTest - Clicked on Login
+15:35:06.734 [main] INFO  testCases.TC_002LoginTest - Entering valid email and password
+15:35:06.970 [main] INFO  testCases.TC_002LoginTest - Clicked on Login
+15:35:07.226 [main] INFO  testCases.TC_002LoginTest - ****Staring TC_002LoginTest *****
+15:38:54.777 [main] INFO  testCases.TC_001AccountRegisterPage - ****starting TC_001AccountRegisterPage****
+15:38:54.782 [main] DEBUG testCases.TC_001AccountRegisterPage - Starting debug
+15:38:54.871 [main] INFO  testCases.TC_001AccountRegisterPage - ****clicked on My account****
+15:38:55.098 [main] INFO  testCases.TC_001AccountRegisterPage - ****clicked on Register****
+15:38:55.098 [main] INFO  testCases.TC_001AccountRegisterPage - ****Entering Customer Info****
+15:38:55.855 [main] INFO  testCases.TC_001AccountRegisterPage - ****clicked on Continue****
+15:38:56.207 [main] INFO  testCases.TC_001AccountRegisterPage - Validating expected message
+15:38:56.210 [main] DEBUG testCases.TC_001AccountRegisterPage - ***Debug finished
+15:38:56.210 [main] INFO  testCases.TC_001AccountRegisterPage - ****finishing TC_001AccountRegisterPage****
+15:38:58.210 [main] INFO  testCases.TC_002LoginTest - ****Staring TC_002LoginTest ******* 
+15:38:58.210 [main] DEBUG testCases.TC_002LoginTest - ****capturing app logs****
+15:38:58.267 [main] INFO  testCases.TC_002LoginTest - Clicked on My Account
+15:38:58.596 [main] INFO  testCases.TC_002LoginTest - Clicked on Login
+15:38:58.600 [main] INFO  testCases.TC_002LoginTest - Entering valid email and password
+15:38:58.834 [main] INFO  testCases.TC_002LoginTest - Clicked on Login
+15:40:03.227 [main] INFO  testCases.TC_001AccountRegisterPage - ****starting TC_001AccountRegisterPage****
