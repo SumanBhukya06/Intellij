@@ -5,13 +5,6 @@
     <parameter name="os" value="Windows"/>
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="testCases.TC_002LoginTest">
-        <methods>
-          <include name="tearDown"/>
-          <include name="verify_Login"/>
-          <include name="setup"/>
-        </methods>
-      </class> <!-- testCases.TC_002LoginTest -->
       <class name="testCases.TC_001AccountRegisterPage">
         <methods>
           <include name="verify_account_registration"/>
@@ -19,6 +12,13 @@
           <include name="setup"/>
         </methods>
       </class> <!-- testCases.TC_001AccountRegisterPage -->
+      <class name="testCases.TC_002LoginTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="verify_Login"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- testCases.TC_002LoginTest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

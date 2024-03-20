@@ -1,3 +1,12 @@
-19:19:15.906 [main] INFO  testCases.TC_002LoginTest - Entering valid email and password
-19:19:16.170 [main] INFO  testCases.TC_002LoginTest - Clicked on Login
-19:19:16.445 [main] INFO  testCases.TC_002LoginTest - ****Staring TC_002LoginTest *****
+22:26:36.154 [main] INFO  testCases.TC_001AccountRegisterPage - ****Entering Customer Info****
+22:26:36.902 [main] INFO  testCases.TC_001AccountRegisterPage - ****clicked on Continue****
+22:26:37.315 [main] INFO  testCases.TC_001AccountRegisterPage - Validating expected message
+22:26:37.317 [main] DEBUG testCases.TC_001AccountRegisterPage - ***Debug finished
+22:26:37.318 [main] INFO  testCases.TC_001AccountRegisterPage - ****finishing TC_001AccountRegisterPage****
+22:26:39.303 [main] INFO  testCases.TC_002LoginTest - ****Staring TC_002LoginTest ******* 
+22:26:39.303 [main] DEBUG testCases.TC_002LoginTest - ****capturing app logs****
+22:26:39.367 [main] INFO  testCases.TC_002LoginTest - Clicked on My Account
+22:26:39.620 [main] INFO  testCases.TC_002LoginTest - Clicked on Login
+22:26:39.621 [main] INFO  testCases.TC_002LoginTest - Entering valid email and password
+22:26:39.825 [main] INFO  testCases.TC_002LoginTest - Clicked on Login
+22:26:40.224 [main] INFO  testCases.TC_002LoginTest - ****Staring TC_002LoginTest *****

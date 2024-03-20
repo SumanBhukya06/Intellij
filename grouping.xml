@@ -23,5 +23,5 @@
       <class name="testCases.TC_002LoginTest"/>
      <!-- <class name="testCases.TC_003LoginDDT"/>-->
     </classes>
-  </test> <!-- Test -->
-</suite> <!-- Suite -->
+  </test> 
+</suite> 
