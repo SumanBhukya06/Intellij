@@ -1,0 +1,60 @@
+22:26:36.154 [main] INFO  testCases.TC_001AccountRegisterPage - ****Entering Customer Info****
+22:26:36.902 [main] INFO  testCases.TC_001AccountRegisterPage - ****clicked on Continue****
+22:26:37.315 [main] INFO  testCases.TC_001AccountRegisterPage - Validating expected message
+22:26:37.317 [main] DEBUG testCases.TC_001AccountRegisterPage - ***Debug finished
+22:26:37.318 [main] INFO  testCases.TC_001AccountRegisterPage - ****finishing TC_001AccountRegisterPage****
+22:26:39.303 [main] INFO  testCases.TC_002LoginTest - ****Staring TC_002LoginTest ******* 
+22:26:39.303 [main] DEBUG testCases.TC_002LoginTest - ****capturing app logs****
+22:26:39.367 [main] INFO  testCases.TC_002LoginTest - Clicked on My Account
+22:26:39.620 [main] INFO  testCases.TC_002LoginTest - Clicked on Login
+22:26:39.621 [main] INFO  testCases.TC_002LoginTest - Entering valid email and password
+22:26:39.825 [main] INFO  testCases.TC_002LoginTest - Clicked on Login
+22:26:40.224 [main] INFO  testCases.TC_002LoginTest - ****Staring TC_002LoginTest *****
+20:58:32.005 [main] INFO  testCases.TC_005FlightAccount - ****starting TC_005FlightAccount****
+20:58:32.015 [main] DEBUG testCases.TC_005FlightAccount - Starting debug
+21:04:24.235 [main] INFO  testCases.TC_005FlightAccount - ****starting TC_005FlightAccount****
+21:04:24.249 [main] DEBUG testCases.TC_005FlightAccount - Starting debug
+21:04:24.544 [main] INFO  testCases.TC_005FlightAccount - ***clicked on accept****
+21:04:25.883 [main] INFO  testCases.TC_005FlightAccount - ****clicked on My account****
+21:04:26.026 [main] INFO  testCases.TC_005FlightAccount - ****clicked on Register****
+21:04:26.279 [main] INFO  testCases.TC_005FlightAccount - ***clicked on i want this plan
+21:04:26.279 [main] INFO  testCases.TC_005FlightAccount - ****Entering Customer Info****
+21:47:24.603 [main] INFO  testCases.TC_005FlightAccount - ****starting TC_005FlightAccount****
+21:47:24.608 [main] DEBUG testCases.TC_005FlightAccount - Starting debug
+21:47:24.851 [main] INFO  testCases.TC_005FlightAccount - ***clicked on accept****
+21:47:26.066 [main] INFO  testCases.TC_005FlightAccount - ****clicked on My account****
+21:47:26.155 [main] INFO  testCases.TC_005FlightAccount - ****clicked on Register****
+21:47:26.315 [main] INFO  testCases.TC_005FlightAccount - ***clicked on i want this plan
+21:47:26.315 [main] INFO  testCases.TC_005FlightAccount - ****Entering Customer Info****
+22:04:16.341 [main] INFO  testCases.TC_005FlightAccount - ****starting TC_005FlightAccount****
+22:04:16.344 [main] DEBUG testCases.TC_005FlightAccount - Starting debug
+22:04:16.533 [main] INFO  testCases.TC_005FlightAccount - ***clicked on accept****
+22:04:17.625 [main] ERROR testCases.TC_005FlightAccount - Test is failed
+22:04:17.625 [main] DEBUG testCases.TC_005FlightAccount - Test is failed
+22:04:53.744 [main] INFO  testCases.TC_005FlightAccount - ****starting TC_005FlightAccount****
+22:04:53.753 [main] DEBUG testCases.TC_005FlightAccount - Starting debug
+22:04:53.920 [main] INFO  testCases.TC_005FlightAccount - ***clicked on accept****
+22:04:55.035 [main] ERROR testCases.TC_005FlightAccount - Test is failed
+22:04:55.036 [main] DEBUG testCases.TC_005FlightAccount - Test is failed
+22:06:51.874 [main] INFO  testCases.TC_005FlightAccount - ****starting TC_005FlightAccount****
+22:06:51.881 [main] DEBUG testCases.TC_005FlightAccount - Starting debug
+22:06:52.044 [main] INFO  testCases.TC_005FlightAccount - ***clicked on accept****
+22:06:53.108 [main] ERROR testCases.TC_005FlightAccount - Test is failed
+22:06:53.108 [main] DEBUG testCases.TC_005FlightAccount - Test is failed
+22:08:25.500 [main] INFO  testCases.TC_005FlightAccount - ****starting TC_005FlightAccount****
+22:08:25.503 [main] DEBUG testCases.TC_005FlightAccount - Starting debug
+22:08:25.679 [main] INFO  testCases.TC_005FlightAccount - ***clicked on accept****
+22:08:26.827 [main] ERROR testCases.TC_005FlightAccount - Test is failed
+22:08:26.827 [main] DEBUG testCases.TC_005FlightAccount - Test is failed
+22:09:43.180 [main] INFO  testCases.TC_005FlightAccount - ****starting TC_005FlightAccount****
+22:09:43.182 [main] DEBUG testCases.TC_005FlightAccount - Starting debug
+22:09:43.360 [main] INFO  testCases.TC_005FlightAccount - ***clicked on accept****
+22:09:44.431 [main] ERROR testCases.TC_005FlightAccount - Test is failed
+22:09:44.431 [main] DEBUG testCases.TC_005FlightAccount - Test is failed
+22:12:33.858 [main] INFO  testCases.TC_005FlightAccount - ****starting TC_005FlightAccount****
+22:12:33.860 [main] DEBUG testCases.TC_005FlightAccount - Starting debug
+22:12:34.026 [main] INFO  testCases.TC_005FlightAccount - ***clicked on accept****
+22:12:35.147 [main] ERROR testCases.TC_005FlightAccount - Test is failed
+22:12:35.147 [main] DEBUG testCases.TC_005FlightAccount - Test is failed
+22:13:58.339 [main] INFO  testCases.TC_005FlightAccount - ****starting TC_005FlightAccount****
+22:13:58.347 [main] DEBUG testCases.TC_005FlightAccount - Starting debug
