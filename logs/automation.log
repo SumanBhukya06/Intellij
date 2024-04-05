@@ -1,38 +1,27 @@
-22:13:58.536 [main] INFO  testCases.TC_005FlightAccount - ***clicked on accept****
-22:13:59.642 [main] ERROR testCases.TC_005FlightAccount - Test is failed
-22:13:59.642 [main] DEBUG testCases.TC_005FlightAccount - Test is failed
-22:19:58.450 [main] INFO  testCases.TC_005FlightAccount - ****starting TC_005FlightAccount****
-22:19:58.455 [main] DEBUG testCases.TC_005FlightAccount - Starting debug
-22:19:58.644 [main] INFO  testCases.TC_005FlightAccount - ***clicked on accept****
-22:19:59.782 [main] ERROR testCases.TC_005FlightAccount - Test is failed
-22:19:59.782 [main] DEBUG testCases.TC_005FlightAccount - Test is failed
-22:27:59.594 [main] INFO  testCases.TC_005FlightAccount - ****starting TC_005FlightAccount****
-22:27:59.597 [main] DEBUG testCases.TC_005FlightAccount - Starting debug
-22:27:59.780 [main] INFO  testCases.TC_005FlightAccount - ***clicked on accept****
-22:28:00.945 [main] ERROR testCases.TC_005FlightAccount - Test is failed
-22:28:00.945 [main] DEBUG testCases.TC_005FlightAccount - Test is failed
-22:34:11.651 [main] INFO  testCases.TC_005FlightAccount - ****starting TC_005FlightAccount****
-22:34:11.658 [main] DEBUG testCases.TC_005FlightAccount - Starting debug
-22:34:11.859 [main] INFO  testCases.TC_005FlightAccount - ***clicked on accept****
-22:34:13.082 [main] INFO  testCases.TC_005FlightAccount - ****clicked on My account****
-22:34:13.197 [main] INFO  testCases.TC_005FlightAccount - ****clicked on Register****
-22:34:13.335 [main] INFO  testCases.TC_005FlightAccount - ***clicked on i want this plan
-22:34:13.335 [main] INFO  testCases.TC_005FlightAccount - ****Entering Customer Info****
-11:07:57.804 [main] INFO  testCases.TC_005FlightAccount - ****starting TC_005FlightAccount****
-11:07:57.814 [main] DEBUG testCases.TC_005FlightAccount - Starting debug
-11:08:55.701 [main] INFO  testCases.TC_005FlightAccount - ****starting TC_005FlightAccount****
-11:08:55.708 [main] DEBUG testCases.TC_005FlightAccount - Starting debug
-11:21:11.298 [main] INFO  testCases.TC_005FlightAccount - ****starting TC_005FlightAccount****
-11:21:11.302 [main] DEBUG testCases.TC_005FlightAccount - Starting debug
-11:23:29.719 [main] INFO  testCases.TC_005FlightAccount - ****starting TC_005FlightAccount****
-11:23:29.728 [main] DEBUG testCases.TC_005FlightAccount - Starting debug
-14:57:40.974 [main] INFO  testCases.TC_005FlightAccount - ****starting TC_005FlightAccount****
-14:57:40.979 [main] DEBUG testCases.TC_005FlightAccount - Starting debug
-14:59:21.131 [main] INFO  testCases.TC_005FlightAccount - ****starting TC_005FlightAccount****
-14:59:21.137 [main] DEBUG testCases.TC_005FlightAccount - Starting debug
-15:04:05.365 [main] INFO  testCases.TC_005FlightAccount - ****starting TC_005FlightAccount****
-15:04:05.374 [main] DEBUG testCases.TC_005FlightAccount - Starting debug
-15:04:05.780 [main] INFO  testCases.TC_005FlightAccount - ****clicked on My account****
-15:04:05.960 [main] INFO  testCases.TC_005FlightAccount - ****clicked on Register****
-15:04:06.220 [main] INFO  testCases.TC_005FlightAccount - ***clicked on i want this plan
-15:04:06.220 [main] INFO  testCases.TC_005FlightAccount - ****Entering Customer Info****
+09:18:20.153 [main] DEBUG testCases.TC_006Way2Account - Starting debug
+09:18:21.489 [main] INFO  testCases.TC_006Way2Account - ****finished TC_006Way2Account****
+09:18:21.490 [main] DEBUG testCases.TC_006Way2Account - Starting debug
+10:38:31.921 [main] INFO  testCases.TC_006Way2Account - ****starting TC_006Way2Account****
+10:38:31.927 [main] DEBUG testCases.TC_006Way2Account - Starting debug
+10:38:33.275 [main] INFO  testCases.TC_006Way2Account - ****finished TC_006Way2Account****
+10:38:33.275 [main] DEBUG testCases.TC_006Way2Account - Starting debug
+10:40:31.984 [main] INFO  testCases.TC_006Way2Account - ****starting TC_006Way2Account****
+10:40:31.993 [main] DEBUG testCases.TC_006Way2Account - Starting debug
+10:40:33.490 [main] INFO  testCases.TC_006Way2Account - ****finished TC_006Way2Account****
+10:40:33.491 [main] DEBUG testCases.TC_006Way2Account - Starting debug
+10:44:27.293 [main] INFO  testCases.TC_006Way2Account - ****starting TC_006Way2Account****
+10:44:27.298 [main] DEBUG testCases.TC_006Way2Account - Starting debug
+10:44:28.713 [main] INFO  testCases.TC_006Way2Account - ****finished TC_006Way2Account****
+10:44:28.713 [main] DEBUG testCases.TC_006Way2Account - Starting debug
+10:48:24.418 [main] INFO  testCases.TC_006Way2Account - ****starting TC_006Way2Account****
+10:48:24.423 [main] DEBUG testCases.TC_006Way2Account - Starting debug
+10:48:25.732 [main] INFO  testCases.TC_006Way2Account - ****finished TC_006Way2Account****
+10:48:25.732 [main] DEBUG testCases.TC_006Way2Account - Starting debug
+10:51:18.027 [main] INFO  testCases.TC_006Way2Account - ****starting TC_006Way2Account****
+10:51:18.036 [main] DEBUG testCases.TC_006Way2Account - Starting debug
+10:51:19.487 [main] INFO  testCases.TC_006Way2Account - ****finished TC_006Way2Account****
+10:51:19.487 [main] DEBUG testCases.TC_006Way2Account - Starting debug
+10:53:49.214 [main] INFO  testCases.TC_006Way2Account - ****starting TC_006Way2Account****
+10:53:49.227 [main] DEBUG testCases.TC_006Way2Account - Starting debug
+10:53:50.455 [main] INFO  testCases.TC_006Way2Account - ****finished TC_006Way2Account****
+10:53:50.455 [main] DEBUG testCases.TC_006Way2Account - Starting debug
