@@ -1,27 +1,6 @@
-09:18:20.153 [main] DEBUG testCases.TC_006Way2Account - Starting debug
-09:18:21.489 [main] INFO  testCases.TC_006Way2Account - ****finished TC_006Way2Account****
-09:18:21.490 [main] DEBUG testCases.TC_006Way2Account - Starting debug
-10:38:31.921 [main] INFO  testCases.TC_006Way2Account - ****starting TC_006Way2Account****
-10:38:31.927 [main] DEBUG testCases.TC_006Way2Account - Starting debug
-10:38:33.275 [main] INFO  testCases.TC_006Way2Account - ****finished TC_006Way2Account****
-10:38:33.275 [main] DEBUG testCases.TC_006Way2Account - Starting debug
-10:40:31.984 [main] INFO  testCases.TC_006Way2Account - ****starting TC_006Way2Account****
-10:40:31.993 [main] DEBUG testCases.TC_006Way2Account - Starting debug
-10:40:33.490 [main] INFO  testCases.TC_006Way2Account - ****finished TC_006Way2Account****
-10:40:33.491 [main] DEBUG testCases.TC_006Way2Account - Starting debug
-10:44:27.293 [main] INFO  testCases.TC_006Way2Account - ****starting TC_006Way2Account****
-10:44:27.298 [main] DEBUG testCases.TC_006Way2Account - Starting debug
-10:44:28.713 [main] INFO  testCases.TC_006Way2Account - ****finished TC_006Way2Account****
-10:44:28.713 [main] DEBUG testCases.TC_006Way2Account - Starting debug
-10:48:24.418 [main] INFO  testCases.TC_006Way2Account - ****starting TC_006Way2Account****
-10:48:24.423 [main] DEBUG testCases.TC_006Way2Account - Starting debug
-10:48:25.732 [main] INFO  testCases.TC_006Way2Account - ****finished TC_006Way2Account****
-10:48:25.732 [main] DEBUG testCases.TC_006Way2Account - Starting debug
-10:51:18.027 [main] INFO  testCases.TC_006Way2Account - ****starting TC_006Way2Account****
-10:51:18.036 [main] DEBUG testCases.TC_006Way2Account - Starting debug
-10:51:19.487 [main] INFO  testCases.TC_006Way2Account - ****finished TC_006Way2Account****
-10:51:19.487 [main] DEBUG testCases.TC_006Way2Account - Starting debug
-10:53:49.214 [main] INFO  testCases.TC_006Way2Account - ****starting TC_006Way2Account****
-10:53:49.227 [main] DEBUG testCases.TC_006Way2Account - Starting debug
-10:53:50.455 [main] INFO  testCases.TC_006Way2Account - ****finished TC_006Way2Account****
-10:53:50.455 [main] DEBUG testCases.TC_006Way2Account - Starting debug
+23:01:24.299 [main] INFO  testCases.TC_008SearchFieldBox - ******Search item*******
+23:01:24.965 [main] INFO  testCases.TC_008SearchFieldBox - *****Clicked on Search Button*****
+23:01:25.060 [main] INFO  testCases.TC_008SearchFieldBox - ***send product name from keyword*****
+23:01:26.881 [main] INFO  testCases.TC_008SearchFieldBox - ****clicked on the search button form keyboard*****
+23:01:26.881 [main] INFO  testCases.TC_008SearchFieldBox - ****starting TC_008SearchFieldBox****
+23:01:26.882 [main] DEBUG testCases.TC_008SearchFieldBox - Starting debug

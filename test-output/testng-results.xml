@@ -2,22 +2,22 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-04-04T10:53:44 IST" name="Suite" finished-at="2024-04-04T10:53:54 IST" duration-ms="10169">
+  <suite started-at="2024-04-06T23:01:16 IST" name="Suite" finished-at="2024-04-06T23:01:26 IST" duration-ms="10334">
     <groups>
       <group name="regression">
-        <method signature="TC_006Way2Account.way_account()[pri:0, instance:testCases.TC_006Way2Account@60099951]" name="way_account" class="testCases.TC_006Way2Account"/>
-        <method signature="TC_007Way2Login.way2_login()[pri:0, instance:testCases.TC_007Way2Login@3c77d488]" name="way2_login" class="testCases.TC_007Way2Login"/>
+        <method signature="TC_008SearchFieldBox.search_product()[pri:0, instance:testCases.TC_008SearchFieldBox@738dc9b]" name="search_product" class="testCases.TC_008SearchFieldBox"/>
       </group> <!-- regression -->
       <group name="sanity">
-        <method signature="TC_007Way2Login.way2_login()[pri:0, instance:testCases.TC_007Way2Login@3c77d488]" name="way2_login" class="testCases.TC_007Way2Login"/>
+        <method signature="TC_002LoginTest.verify_Login()[pri:0, instance:testCases.TC_002LoginTest@1c7696c6]" name="verify_Login" class="testCases.TC_002LoginTest"/>
+        <method signature="TC_008SearchFieldBox.search_product()[pri:0, instance:testCases.TC_008SearchFieldBox@738dc9b]" name="search_product" class="testCases.TC_008SearchFieldBox"/>
       </group> <!-- sanity -->
       <group name="master">
-        <method signature="TC_006Way2Account.way_account()[pri:0, instance:testCases.TC_006Way2Account@60099951]" name="way_account" class="testCases.TC_006Way2Account"/>
+        <method signature="TC_002LoginTest.verify_Login()[pri:0, instance:testCases.TC_002LoginTest@1c7696c6]" name="verify_Login" class="testCases.TC_002LoginTest"/>
       </group> <!-- master -->
     </groups>
-    <test started-at="2024-04-04T10:53:44 IST" name="Test" finished-at="2024-04-04T10:53:54 IST" duration-ms="10169">
-      <class name="testCases.TC_007Way2Login">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_007Way2Login@3c77d488]" started-at="2024-04-04T10:53:50 IST" name="setup" finished-at="2024-04-04T10:53:53 IST" duration-ms="3260" status="PASS">
+    <test started-at="2024-04-06T23:01:16 IST" name="Test" finished-at="2024-04-06T23:01:26 IST" duration-ms="10334">
+      <class name="testCases.TC_008SearchFieldBox">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_008SearchFieldBox@738dc9b]" started-at="2024-04-06T23:01:22 IST" name="setup" finished-at="2024-04-06T23:01:24 IST" duration-ms="1929" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -33,17 +33,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="way2_login()[pri:0, instance:testCases.TC_007Way2Login@3c77d488]" started-at="2024-04-04T10:53:53 IST" name="way2_login" finished-at="2024-04-04T10:53:54 IST" duration-ms="492" status="PASS">
+        <test-method signature="search_product()[pri:0, instance:testCases.TC_008SearchFieldBox@738dc9b]" started-at="2024-04-06T23:01:24 IST" name="search_product" finished-at="2024-04-06T23:01:26 IST" duration-ms="2674" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- way2_login -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_007Way2Login@3c77d488]" started-at="2024-04-04T10:53:54 IST" name="tearDown" finished-at="2024-04-04T10:53:54 IST" duration-ms="133" status="PASS">
+        </test-method> <!-- search_product -->
+        <test-method is-config="true" signature="randomeString()[pri:0, instance:testCases.TC_008SearchFieldBox@738dc9b]" started-at="2024-04-06T23:01:26 IST" name="randomeString" finished-at="2024-04-06T23:01:26 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- testCases.TC_007Way2Login -->
-      <class name="testCases.TC_006Way2Account">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_006Way2Account@60099951]" started-at="2024-04-04T10:53:44 IST" name="setup" finished-at="2024-04-04T10:53:49 IST" duration-ms="4327" status="PASS">
+        </test-method> <!-- randomeString -->
+      </class> <!-- testCases.TC_008SearchFieldBox -->
+      <class name="testCases.TC_002LoginTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_002LoginTest@1c7696c6]" started-at="2024-04-06T23:01:16 IST" name="setup" finished-at="2024-04-06T23:01:20 IST" duration-ms="3307" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -59,15 +59,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="way_account()[pri:0, instance:testCases.TC_006Way2Account@60099951]" started-at="2024-04-04T10:53:49 IST" name="way_account" finished-at="2024-04-04T10:53:50 IST" duration-ms="1256" status="PASS">
+        <test-method signature="verify_Login()[pri:0, instance:testCases.TC_002LoginTest@1c7696c6]" started-at="2024-04-06T23:01:20 IST" name="verify_Login" finished-at="2024-04-06T23:01:22 IST" duration-ms="1990" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- way_account -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_006Way2Account@60099951]" started-at="2024-04-04T10:53:50 IST" name="tearDown" finished-at="2024-04-04T10:53:50 IST" duration-ms="155" status="PASS">
+        </test-method> <!-- verify_Login -->
+        <test-method is-config="true" signature="randomeString()[pri:0, instance:testCases.TC_002LoginTest@1c7696c6]" started-at="2024-04-06T23:01:22 IST" name="randomeString" finished-at="2024-04-06T23:01:22 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- testCases.TC_006Way2Account -->
+        </test-method> <!-- randomeString -->
+      </class> <!-- testCases.TC_002LoginTest -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>

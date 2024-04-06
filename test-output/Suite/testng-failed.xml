@@ -14,13 +14,13 @@
       </run>
     </groups>
     <classes>
-      <class name="testCases.TC_007Way2Login">
+      <class name="testCases.TC_008SearchFieldBox">
         <methods>
-          <include name="way2_login"/>
-          <include name="tearDown"/>
+          <include name="search_product"/>
+          <include name="randomeString"/>
           <include name="setup"/>
         </methods>
-      </class> <!-- testCases.TC_007Way2Login -->
+      </class> <!-- testCases.TC_008SearchFieldBox -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

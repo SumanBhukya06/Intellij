@@ -23,9 +23,12 @@
      <!-- <class name="testCases.TC_001AccountRegisterPage"/>
       <class name="testCases.TC_002LoginTest"/>
       <class name="testCases.TC_003LoginDDT"/>
-      <class name="testCases.TC_005FlightAccount"/>-->
+      <class name="testCases.TC_005FlightAccount"/>
       <class name="testCases.TC_006Way2Account"/>
-      <class name="testCases.TC_007Way2Login"/>
+      <class name="testCases.TC_007Way2Login"/>-->
+      <class name="testCases.TC_002LoginTest"/>
+      <class name="testCases.TC_008SearchFieldBox"/>
+      
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

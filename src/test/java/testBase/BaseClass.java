@@ -53,10 +53,10 @@ public class BaseClass {
 	}
 	
 	@AfterClass(groups= {"sanity","regression","master"})
-	public void tearDown()
+	/*public void tearDown()
 	{
 		driver.close();
-	}
+	}*/
 	
 	public String randomeString()
 	{
