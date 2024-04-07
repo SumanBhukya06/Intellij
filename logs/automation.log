@@ -1,6 +1,38 @@
-23:01:24.299 [main] INFO  testCases.TC_008SearchFieldBox - ******Search item*******
-23:01:24.965 [main] INFO  testCases.TC_008SearchFieldBox - *****Clicked on Search Button*****
-23:01:25.060 [main] INFO  testCases.TC_008SearchFieldBox - ***send product name from keyword*****
-23:01:26.881 [main] INFO  testCases.TC_008SearchFieldBox - ****clicked on the search button form keyboard*****
-23:01:26.881 [main] INFO  testCases.TC_008SearchFieldBox - ****starting TC_008SearchFieldBox****
-23:01:26.882 [main] DEBUG testCases.TC_008SearchFieldBox - Starting debug
+09:35:38.131 [main] INFO  testCases.TC_008SearchFieldBox - ****starting TC_008SearchFieldBox****
+09:35:38.139 [main] DEBUG testCases.TC_008SearchFieldBox - Starting debug
+09:35:38.222 [main] INFO  testCases.TC_008SearchFieldBox - ******Search item*******
+09:35:38.571 [main] INFO  testCases.TC_008SearchFieldBox - *****Clicked on Search Button*****
+09:35:38.645 [main] INFO  testCases.TC_008SearchFieldBox - ***send product name from keyword*****
+09:35:39.081 [main] INFO  testCases.TC_008SearchFieldBox - ****clicked on the search button form keyboard*****
+09:35:39.081 [main] INFO  testCases.TC_008SearchFieldBox - ****starting TC_008SearchFieldBox****
+09:35:39.082 [main] DEBUG testCases.TC_008SearchFieldBox - Starting debug
+09:43:01.312 [main] INFO  testCases.TC_002LoginTest - ****Staring TC_002LoginTest ******* 
+09:43:01.315 [main] DEBUG testCases.TC_002LoginTest - ****capturing app logs****
+09:43:01.418 [main] INFO  testCases.TC_002LoginTest - Clicked on My Account
+09:43:01.713 [main] INFO  testCases.TC_002LoginTest - Clicked on Login
+09:43:01.715 [main] INFO  testCases.TC_002LoginTest - Entering valid email and password
+09:43:01.920 [main] INFO  testCases.TC_002LoginTest - Clicked on Login
+09:43:02.209 [main] INFO  testCases.TC_002LoginTest - ****Staring TC_002LoginTest *****
+09:43:03.613 [main] INFO  testCases.TC_008SearchFieldBox - ****starting TC_008SearchFieldBox****
+09:43:03.614 [main] DEBUG testCases.TC_008SearchFieldBox - Starting debug
+09:43:03.677 [main] INFO  testCases.TC_008SearchFieldBox - ******Search item*******
+09:43:03.968 [main] INFO  testCases.TC_008SearchFieldBox - *****Clicked on Search Button*****
+09:43:04.028 [main] INFO  testCases.TC_008SearchFieldBox - ***send product name from keyword*****
+09:43:04.387 [main] INFO  testCases.TC_008SearchFieldBox - ****clicked on the search button form keyboard*****
+09:43:04.387 [main] INFO  testCases.TC_008SearchFieldBox - ****starting TC_008SearchFieldBox****
+09:43:04.387 [main] DEBUG testCases.TC_008SearchFieldBox - Starting debug
+09:44:43.674 [main] INFO  testCases.TC_002LoginTest - ****Staring TC_002LoginTest ******* 
+09:44:43.677 [main] DEBUG testCases.TC_002LoginTest - ****capturing app logs****
+09:44:43.768 [main] INFO  testCases.TC_002LoginTest - Clicked on My Account
+09:44:44.118 [main] INFO  testCases.TC_002LoginTest - Clicked on Login
+09:44:44.121 [main] INFO  testCases.TC_002LoginTest - Entering valid email and password
+09:44:44.341 [main] INFO  testCases.TC_002LoginTest - Clicked on Login
+09:44:44.607 [main] INFO  testCases.TC_002LoginTest - ****Staring TC_002LoginTest *****
+09:44:46.198 [main] INFO  testCases.TC_008SearchFieldBox - ****starting TC_008SearchFieldBox****
+09:44:46.198 [main] DEBUG testCases.TC_008SearchFieldBox - Starting debug
+09:44:46.277 [main] INFO  testCases.TC_008SearchFieldBox - ******Search item*******
+09:44:46.643 [main] INFO  testCases.TC_008SearchFieldBox - *****Clicked on Search Button*****
+09:44:46.702 [main] INFO  testCases.TC_008SearchFieldBox - ***send product name from keyword*****
+09:44:47.035 [main] INFO  testCases.TC_008SearchFieldBox - ****clicked on the search button form keyboard*****
+09:44:47.035 [main] INFO  testCases.TC_008SearchFieldBox - ****starting TC_008SearchFieldBox****
+09:44:47.036 [main] DEBUG testCases.TC_008SearchFieldBox - Starting debug
