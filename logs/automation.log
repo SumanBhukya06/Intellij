@@ -36,3 +36,15 @@
 09:44:47.035 [main] INFO  testCases.TC_008SearchFieldBox - ****clicked on the search button form keyboard*****
 09:44:47.035 [main] INFO  testCases.TC_008SearchFieldBox - ****starting TC_008SearchFieldBox****
 09:44:47.036 [main] DEBUG testCases.TC_008SearchFieldBox - Starting debug
+19:10:06.645 [main] INFO  testCases.TC_002LoginTest - ****Staring TC_002LoginTest ******* 
+19:10:06.652 [main] DEBUG testCases.TC_002LoginTest - ****capturing app logs****
+19:11:48.492 [main] INFO  testCases.TC_005FlightAccount - ****starting TC_005FlightAccount****
+19:11:48.497 [main] DEBUG testCases.TC_005FlightAccount - Starting debug
+19:13:28.629 [main] INFO  testCases.TC_005FlightAccount - ****starting TC_005FlightAccount****
+19:13:28.633 [main] DEBUG testCases.TC_005FlightAccount - Starting debug
+19:14:40.268 [main] INFO  testCases.TC_005FlightAccount - ****starting TC_005FlightAccount****
+19:14:40.278 [main] DEBUG testCases.TC_005FlightAccount - Starting debug
+19:14:40.627 [main] INFO  testCases.TC_005FlightAccount - ****clicked on My account****
+19:14:40.801 [main] INFO  testCases.TC_005FlightAccount - ****clicked on Register****
+19:14:41.000 [main] INFO  testCases.TC_005FlightAccount - ***clicked on i want this plan
+19:14:41.000 [main] INFO  testCases.TC_005FlightAccount - ****Entering Customer Info****
