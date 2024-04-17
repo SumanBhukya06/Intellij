@@ -2,7 +2,6 @@ package testCases;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
-
 import pageObjects.AccountRegistrationPage;
 import pageObjects.HomePage;
 import testBase.BaseClass;
@@ -14,7 +13,7 @@ public class TC_001AccountRegisterPage extends BaseClass{
 	{
 		logger.info("****starting TC_001AccountRegisterPage****");
 		logger.debug("Starting debug");
-		
+		//MOWA
 		try
 		{
 		HomePage hp=new HomePage(driver);
@@ -36,6 +35,7 @@ public class TC_001AccountRegisterPage extends BaseClass{
 		repage.setPassword(password);
 		
 		repage.setNewsletter();
+		logger.info("Clicked on NNewsletter");
 		repage.setPrivacyPolicy();
 		//Thread.sleep(2000);		
 		repage.clickContinue();
@@ -57,5 +57,6 @@ public class TC_001AccountRegisterPage extends BaseClass{
 		
 	}
 }
+
 
 
