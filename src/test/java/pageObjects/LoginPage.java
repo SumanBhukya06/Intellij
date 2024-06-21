@@ -17,6 +17,12 @@ public class LoginPage extends BasePage {
 	
 	@FindBy(xpath="//button[normalize-space()='Login']")
 	WebElement btnLogin;
+
+	@FindBy(xpath = "//input[@placeholder='E-Mail Address']")
+	WebElement txtplaceholder;
+
+	@FindBy(xpath = "//input[@placeholder='Password']")
+	WebElement txtpwdplaceholder;
 	
 	public void setEmail(String email)
 	{
@@ -30,6 +36,16 @@ public class LoginPage extends BasePage {
 	
 	public void ClickLogin() {
 		btnLogin.click();
+	}
+
+	public String gettxtPlaceholder()
+	{
+		return txtplaceholder.getAttribute("placeholder");
+	}
+
+	public String getpwdtxtPlaceholder(){
+		return txtpwdplaceholder.getAttribute("placeholder");
+
 	}
 
 }

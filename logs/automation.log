@@ -1,50 +1,39 @@
-09:35:38.131 [main] INFO  testCases.TC_008SearchFieldBox - ****starting TC_008SearchFieldBox****
-09:35:38.139 [main] DEBUG testCases.TC_008SearchFieldBox - Starting debug
-09:35:38.222 [main] INFO  testCases.TC_008SearchFieldBox - ******Search item*******
-09:35:38.571 [main] INFO  testCases.TC_008SearchFieldBox - *****Clicked on Search Button*****
-09:35:38.645 [main] INFO  testCases.TC_008SearchFieldBox - ***send product name from keyword*****
-09:35:39.081 [main] INFO  testCases.TC_008SearchFieldBox - ****clicked on the search button form keyboard*****
-09:35:39.081 [main] INFO  testCases.TC_008SearchFieldBox - ****starting TC_008SearchFieldBox****
-09:35:39.082 [main] DEBUG testCases.TC_008SearchFieldBox - Starting debug
-09:43:01.312 [main] INFO  testCases.TC_002LoginTest - ****Staring TC_002LoginTest ******* 
-09:43:01.315 [main] DEBUG testCases.TC_002LoginTest - ****capturing app logs****
-09:43:01.418 [main] INFO  testCases.TC_002LoginTest - Clicked on My Account
-09:43:01.713 [main] INFO  testCases.TC_002LoginTest - Clicked on Login
-09:43:01.715 [main] INFO  testCases.TC_002LoginTest - Entering valid email and password
-09:43:01.920 [main] INFO  testCases.TC_002LoginTest - Clicked on Login
-09:43:02.209 [main] INFO  testCases.TC_002LoginTest - ****Staring TC_002LoginTest *****
-09:43:03.613 [main] INFO  testCases.TC_008SearchFieldBox - ****starting TC_008SearchFieldBox****
-09:43:03.614 [main] DEBUG testCases.TC_008SearchFieldBox - Starting debug
-09:43:03.677 [main] INFO  testCases.TC_008SearchFieldBox - ******Search item*******
-09:43:03.968 [main] INFO  testCases.TC_008SearchFieldBox - *****Clicked on Search Button*****
-09:43:04.028 [main] INFO  testCases.TC_008SearchFieldBox - ***send product name from keyword*****
-09:43:04.387 [main] INFO  testCases.TC_008SearchFieldBox - ****clicked on the search button form keyboard*****
-09:43:04.387 [main] INFO  testCases.TC_008SearchFieldBox - ****starting TC_008SearchFieldBox****
-09:43:04.387 [main] DEBUG testCases.TC_008SearchFieldBox - Starting debug
-09:44:43.674 [main] INFO  testCases.TC_002LoginTest - ****Staring TC_002LoginTest ******* 
-09:44:43.677 [main] DEBUG testCases.TC_002LoginTest - ****capturing app logs****
-09:44:43.768 [main] INFO  testCases.TC_002LoginTest - Clicked on My Account
-09:44:44.118 [main] INFO  testCases.TC_002LoginTest - Clicked on Login
-09:44:44.121 [main] INFO  testCases.TC_002LoginTest - Entering valid email and password
-09:44:44.341 [main] INFO  testCases.TC_002LoginTest - Clicked on Login
-09:44:44.607 [main] INFO  testCases.TC_002LoginTest - ****Staring TC_002LoginTest *****
-09:44:46.198 [main] INFO  testCases.TC_008SearchFieldBox - ****starting TC_008SearchFieldBox****
-09:44:46.198 [main] DEBUG testCases.TC_008SearchFieldBox - Starting debug
-09:44:46.277 [main] INFO  testCases.TC_008SearchFieldBox - ******Search item*******
-09:44:46.643 [main] INFO  testCases.TC_008SearchFieldBox - *****Clicked on Search Button*****
-09:44:46.702 [main] INFO  testCases.TC_008SearchFieldBox - ***send product name from keyword*****
-09:44:47.035 [main] INFO  testCases.TC_008SearchFieldBox - ****clicked on the search button form keyboard*****
-09:44:47.035 [main] INFO  testCases.TC_008SearchFieldBox - ****starting TC_008SearchFieldBox****
-09:44:47.036 [main] DEBUG testCases.TC_008SearchFieldBox - Starting debug
-19:10:06.645 [main] INFO  testCases.TC_002LoginTest - ****Staring TC_002LoginTest ******* 
-19:10:06.652 [main] DEBUG testCases.TC_002LoginTest - ****capturing app logs****
-19:11:48.492 [main] INFO  testCases.TC_005FlightAccount - ****starting TC_005FlightAccount****
-19:11:48.497 [main] DEBUG testCases.TC_005FlightAccount - Starting debug
-19:13:28.629 [main] INFO  testCases.TC_005FlightAccount - ****starting TC_005FlightAccount****
-19:13:28.633 [main] DEBUG testCases.TC_005FlightAccount - Starting debug
-19:14:40.268 [main] INFO  testCases.TC_005FlightAccount - ****starting TC_005FlightAccount****
-19:14:40.278 [main] DEBUG testCases.TC_005FlightAccount - Starting debug
-19:14:40.627 [main] INFO  testCases.TC_005FlightAccount - ****clicked on My account****
-19:14:40.801 [main] INFO  testCases.TC_005FlightAccount - ****clicked on Register****
-19:14:41.000 [main] INFO  testCases.TC_005FlightAccount - ***clicked on i want this plan
-19:14:41.000 [main] INFO  testCases.TC_005FlightAccount - ****Entering Customer Info****
+19:18:04.785 [main] INFO  testCases.TC_002LoginTest - ****Staring TC_002LoginTest *****
+19:19:31.059 [main] INFO  testCases.TC_002LoginTest - ****Staring TC_002LoginTest ******* 
+19:19:31.071 [main] DEBUG testCases.TC_002LoginTest - ****capturing app logs****
+19:19:31.353 [main] INFO  testCases.TC_002LoginTest - Clicked on My Account
+19:19:32.273 [main] INFO  testCases.TC_002LoginTest - Clicked on Login
+19:19:32.278 [main] INFO  testCases.TC_002LoginTest - Entering valid email and password
+19:19:32.905 [main] INFO  testCases.TC_002LoginTest - Clicked on Login
+19:19:33.894 [main] INFO  testCases.TC_002LoginTest - ****Staring TC_002LoginTest *****
+19:21:53.313 [main] INFO  testCases.TC_002LoginTest - ****Staring TC_002LoginTest ******* 
+19:21:53.329 [main] DEBUG testCases.TC_002LoginTest - ****capturing app logs****
+19:21:53.621 [main] INFO  testCases.TC_002LoginTest - Clicked on My Account
+19:21:54.546 [main] INFO  testCases.TC_002LoginTest - Clicked on Login
+19:21:54.550 [main] INFO  testCases.TC_002LoginTest - Entering valid email and password
+19:21:55.083 [main] INFO  testCases.TC_002LoginTest - Clicked on Login
+19:21:56.032 [main] INFO  testCases.TC_002LoginTest - ****Staring TC_002LoginTest *****
+19:24:20.069 [main] INFO  testCases.TC_002LoginTest - ****Staring TC_002LoginTest ******* 
+19:24:20.084 [main] DEBUG testCases.TC_002LoginTest - ****capturing app logs****
+19:24:20.428 [main] INFO  testCases.TC_002LoginTest - Clicked on My Account
+19:24:21.372 [main] INFO  testCases.TC_002LoginTest - Clicked on Login
+19:24:21.376 [main] INFO  testCases.TC_002LoginTest - Entering valid email and password
+19:24:21.912 [main] INFO  testCases.TC_002LoginTest - Clicked on Login
+19:24:22.740 [main] INFO  testCases.TC_002LoginTest - ****Ending TC_002LoginTest *****
+19:24:23.165 [main] INFO  testCases.TC_002LoginTest - Clicked on back
+19:26:26.132 [main] INFO  testCases.TC_002LoginTest - ****Staring TC_002LoginTest ******* 
+19:26:26.144 [main] DEBUG testCases.TC_002LoginTest - ****capturing app logs****
+19:26:26.369 [main] INFO  testCases.TC_002LoginTest - Clicked on My Account
+19:26:27.310 [main] INFO  testCases.TC_002LoginTest - Clicked on Login
+19:26:27.318 [main] INFO  testCases.TC_002LoginTest - Entering valid email and password
+19:26:27.989 [main] INFO  testCases.TC_002LoginTest - Clicked on Login
+19:26:28.938 [main] INFO  testCases.TC_002LoginTest - ****Ending TC_002LoginTest *****
+19:26:29.382 [main] INFO  testCases.TC_002LoginTest - Clicked on back
+19:27:33.332 [main] INFO  testCases.TC_002LoginTest - ****Staring TC_002LoginTest ******* 
+19:27:33.343 [main] DEBUG testCases.TC_002LoginTest - ****capturing app logs****
+19:27:33.571 [main] INFO  testCases.TC_002LoginTest - Clicked on My Account
+19:27:34.394 [main] INFO  testCases.TC_002LoginTest - Clicked on Login
+19:27:34.398 [main] INFO  testCases.TC_002LoginTest - Entering valid email and password
+19:27:34.960 [main] INFO  testCases.TC_002LoginTest - Clicked on Login
+19:27:35.861 [main] INFO  testCases.TC_002LoginTest - ****Ending TC_002LoginTest *****
+19:27:36.269 [main] INFO  testCases.TC_002LoginTest - Clicked on back

@@ -5,7 +5,7 @@
 		  <run>
 			 <include name="sanity"/>
 			<include name="regression"/>
-			<!-- <include name="master"/>-->
+			 <include name="master"/>
 			 <!--  <exclude name=""/>-->
 		  </run>
 	  </groups>
@@ -20,14 +20,15 @@
 	  <parameter name="browser" value="chrome"></parameter>
 	  
     <classes>
-     <!-- <class name="testCases.TC_001AccountRegisterPage"/>
-      <class name="testCases.TC_002LoginTest"/>
-      <class name="testCases.TC_003LoginDDT"/>-->
+     <!-- <class name="testCases.TC_001AccountRegisterPage"/>-->
+     <class name="testCases.TC_002LoginTest"/>
+      <!--<class name="testCases.TC_003LoginDDT"/>
       <class name="testCases.TC_005FlightAccount"/>
-      <!--<class name="testCases.TC_006Way2Account"/>-->
+      <class name="testCases.TC_006Way2Account"/>
+		<class name="testCases.TC_008Temenous"/>-->
 
 
       
     </classes>
-  </test> <!-- Test -->
-</suite> <!-- Suite -->
+  </test>
+</suite>

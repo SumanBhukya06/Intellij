@@ -1,5 +1,7 @@
 package testCases;
 
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
@@ -33,8 +35,21 @@ public class TC_002LoginTest extends BaseClass{
 		lp.setEmail(p.getProperty("email"));
 		lp.setPassword(p.getProperty("password"));
 		lp.ClickLogin();
+		//lp.gettxtPlaceholder("placeholder");
+		//WebElement place=lp.gettxtPlaceholder();
+		//String placeholdertext= place.getAttribute("placeholder");
 		logger.info("Clicked on Login");
-		
+		//Assert.assertEquals(lp,true,"E-mail Address");
+		String placeholderText = lp.gettxtPlaceholder();
+		System.out.println("Placeholder text:" + placeholderText);
+		Assert.assertEquals(placeholderText, "E-Mail Address", "Placeholder text is correct!");
+
+		String placeholderText1 = lp.getpwdtxtPlaceholder();
+		System.out.println("Placeholder text: " + placeholderText1);
+		Assert.assertEquals(placeholderText1,"Password","Placeholder text is correct!");
+		lp.getpwdtxtPlaceholder();
+
+
 		//My account page
 		
 		MyAccountPage macc=new MyAccountPage(driver);
@@ -45,7 +60,11 @@ public class TC_002LoginTest extends BaseClass{
 		{
 			Assert.fail();
 		}
-		logger.info("****Staring TC_002LoginTest *****");
+		logger.info("****Ending TC_002LoginTest *****");
+		driver.navigate().back();
+		logger.info("Clicked on back");
+		//driver.getCurrentUrl();
 	}
+
 
 }

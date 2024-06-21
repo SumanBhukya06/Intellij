@@ -50,6 +50,7 @@ public class BaseClass {
 		
 		driver.get(p.getProperty("appURL"));
 		driver.manage().window().maximize();
+		//driver.get(p.getProperty("email"));
 	}
 	
 	@AfterClass(groups= {"sanity","regression","master"})
@@ -78,10 +79,10 @@ public class BaseClass {
 		return (str+"@"+num);
 	}
 	
-	/*public String randomNumeric() {
+	public String randomNumeric() {
 		String number=RandomStringUtils.randomNumeric(10);
 		return(number);
-	}*/
+	}
 	
 	public String captureScreen(String tname) throws IOException {
 
